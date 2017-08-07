@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Export-Package: org.wso2.carbon.apimgt.api.doc.model;version="5.0.3",o
+ rg.wso2.carbon.apimgt.api.model;uses:="org.wso2.carbon.apimgt.api,org
+ .json.simple";version="5.0.3",org.wso2.carbon.apimgt.api;uses:="org.w
+ so2.carbon.apimgt.api.model,org.wso2.carbon.apimgt.api.dto,org.wso2.c
+ arbon.registry.api,org.json.simple";version="5.0.3",org.wso2.carbon.a
+ pimgt.api.dto;uses:="org.wso2.carbon.apimgt.api.model,org.wso2.carbon
+ .apimgt.api";version="5.0.3"
+Built-By: yumiao
+Tool: Bnd-0.0.238
+Bundle-Name: org.wso2.carbon.apimgt.api
+Created-By: Apache Maven Bundle Plugin
+Bundle-Vendor: WSO2
+Build-Jdk: 1.7.0_80
+Bundle-Version: 5.0.3
+Bnd-LastModified: 1499752453155
+Bundle-ManifestVersion: 2
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-Description: WSO2 is an open source application development sof
+ tware company focused on providing service-oriented        architectu
+ re solutions for professional developers.
+Import-Package: org.json.simple;resolution:=optional,org.wso2.carbon.a
+ pimgt.api;resolution:=optional;version="5.0.3",org.wso2.carbon.apimgt
+ .api.doc.model;resolution:=optional;version="5.0.3",org.wso2.carbon.a
+ pimgt.api.dto;resolution:=optional;version="5.0.3",org.wso2.carbon.ap
+ imgt.api.model;resolution:=optional;version="5.0.3",org.wso2.carbon.r
+ egistry.api;resolution:=optional;version="1.0"
+Bundle-DocURL: http://www.wso2.org/
+Bundle-SymbolicName: org.wso2.carbon.apimgt.api
+

@@ -1,0 +1,19 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+WSO2 Carbon - Api for API Management
+
+
+From: 'an unknown organization'
+  - json-simple.wso2 (http://wso2.org) com.googlecode.json-simple.wso2:json-simple:bundle:1.1.wso2v1
+
+
+From: 'WSO2 Inc' (http://wso2.com)
+  - WSO2 Carbon - Registry API (http://wso2.org/org.wso2.carbon.registry.api) org.wso2.carbon:org.wso2.carbon.registry.api:bundle:4.4.3
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+
+
+
